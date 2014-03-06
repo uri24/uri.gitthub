@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="primers">
+        <item>Amanida simple</item>
+        <item>Macarrons a la carbonara</item>
+        <item>Patates fregides</item>
+        <item>Sopa de galets</item>
+        <item>Torrades</item>
+           
+</string-array>
+<string-array name="segons">
+        <item>Botifarra</item>
+        <item>Pollastre al forn</item>
+        <item>Llenguado</item>
+        <item>Truita francesa</item>
+        <item>Ànec</item>
+           
+</string-array>
+<string-array name="postes">
+        <item>Flam</item>
+        <item>Plàtan</item>
+        <item>Gelat al gust</item>
+        <item>Natilles</item>
+     
+           
+</string-array>
+<string-array name="beguda">
+        <item>Aigua</item>
+        <item>Vi</item>
+
+           
+</string-array>
+</resources>

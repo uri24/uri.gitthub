@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Restaurant</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="strsalutacio">Benvingut a la aplicacio del nostre Restaurant</string>
+    <string name="btentrar">Entrar</string>
+    <string name="title_activity_secon_activiti">Restaurant</string>
+    <string name="strintro">Esculli el seu menú</string>
+    <string name="strPrimer">Primer Plat</string>
+    <string name="strSegon">Segon Plat</string>
+    <string name="strPostres">Postres</string>
+    <string name="strBeguda">Beguda</string>
+    <string name="tbenviar">Enviar Comanda</string>
+    <string name="title_activity_tercera">Restaurant</string>
+    <string name="strResum">Resum de la Comanda</string>
+    <string name="btaceptar">Acceptar</string>
+   
+
+</resources>
+
+
